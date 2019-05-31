@@ -4,7 +4,7 @@ This is my solution to keep the blades with the knifes.
 
 I printed it at 10% infill but I would recommend printing it at higher infill.
 
-**- Print Settings**
+**- Print Settings:**
 
 
 Printer Brand: Prusa
